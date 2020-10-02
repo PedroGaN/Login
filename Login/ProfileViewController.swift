@@ -10,5 +10,11 @@ import UIKit
 
 class ProfileViewController: UIViewController {
 
+    @IBOutlet weak var ProfilePic: UIImageView!
+    
+    override func viewDidLoad() {
+        ProfilePic.image = UIImage(named: "ProfilePic")
+    }
+    
 }
 
