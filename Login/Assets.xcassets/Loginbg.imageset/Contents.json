@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "2-space-cat-riding-unicorn-laser-tacos-and-rainbow-random-galaxy-2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "2-space-cat-riding-unicorn-laser-tacos-and-rainbow-random-galaxy-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "2-space-cat-riding-unicorn-laser-tacos-and-rainbow-random-galaxy.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
